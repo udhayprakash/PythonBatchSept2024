@@ -22,16 +22,43 @@
 
 ## Course Completed 
 
-class01 sept 18th 
-    Introduction, DevSetup, Working with git & commands
+[class01 sept 18th](https://us06web.zoom.us/rec/share/FmBPyvAsTuu_uEcE6glhkCmt-_uc9Uc7BxEqTUUSk021nt-WvW1inuw2CUGbkIgd.o1G7sr94PTh4lGhI)
 
-    https://us06web.zoom.us/rec/share/FmBPyvAsTuu_uEcE6glhkCmt-_uc9Uc7BxEqTUUSk021nt-WvW1inuw2CUGbkIgd.o1G7sr94PTh4lGhI
+    00. Dev Setup
+        Installing IDE/Editor
+        Installing Python and local setup
+        Github access, creating project
+    
 
-class02 sept 19th 
-    Introduction to python,
-    shebang line & usage
-    Dynamic Typing
-    Basic data types supports 
-    Indendation issue 
+[class02 sept 19th](https://us06web.zoom.us/rec/share/ixzGLoV-AOYOk-7c9mWF8pvZiTMI1pu1HmN9N3XWzcnYXUqDsYtAXtb_z6Mw0Mvp.lwiOwyjkRBKYQ3FP) 
+    
+    01.Introduction
+
+        Introduction to python
+        shebang line & usage
+        Dynamic Typing
+        Basic data types supports 
+        Indentation issue 
 
     
+[class03 sept 24th]()
+        built-in functions
+        Comment Operator
+        keywords and Identifiers
+        strictly-typed and data type conversions
+        python interactive mode
+        Line continuation operator
+    
+
+[class 04 sept 25th]()
+
+    02.Basics
+        Arithmetic operations
+            +, -, , /, //, %, *
+            divmod() function
+            Practical Problem solving
+            working with complex numbers
+            abs() function
+            Operator precedence in Arithmetic operations
+
+   
