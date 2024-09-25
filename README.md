@@ -20,6 +20,20 @@
 ### To check/verify the  modified content in existing file,
     git diff <filename>
 
+## Daily 
+    To check the branch is clean, 
+
+        git status 
+
+    To checkout to the main branch 
+        git checkout main 
+
+    To get the latest changes 
+        git pull origin main 
+
+    To create new branch 
+        git checkout -b <NEW BRANCH NAME>
+
 ## Course Completed 
 
 [class01 sept 18th](https://us06web.zoom.us/rec/share/FmBPyvAsTuu_uEcE6glhkCmt-_uc9Uc7BxEqTUUSk021nt-WvW1inuw2CUGbkIgd.o1G7sr94PTh4lGhI)
@@ -56,6 +70,11 @@
         Arithmetic operations
             +, -, , /, //, %, *
             divmod() function
+            compound operations
+            jupyter notebook 
+
+[class 05 sept 26th]()
+       
             Practical Problem solving
             working with complex numbers
             abs() function
