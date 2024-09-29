@@ -56,6 +56,7 @@
 
     
 [class03 sept 23rd](https://us06web.zoom.us/rec/share/Ojz7TIC5eHWjtgZUliMt1Ng2lbDXE-XWPHTQFNncXe24fdmUkHU0Un9otmq4tLQ.SU3lKLBmttvQAPkW)
+
         built-in functions
         Comment Operator
         keywords and Identifiers
@@ -79,6 +80,9 @@
             working with complex numbers
             abs() function
             Operator precedence in Arithmetic operations
+
+
+## Course Planned 
 
 [class 06 sept 26th]()
 
@@ -106,6 +110,9 @@
         Bitwise Operations
         Identity Operations
         range() function
+
+[class 08 Oct 1st]()
+
         Conditional Operations
         Structural Pattern Matching
         Loops: for & while, break, continue, pass, sys.exit
@@ -120,6 +127,8 @@
         traceback
         warnings
 
+ [class 09 Oct 2nd]()
+
     05.Debugging
         Importance of logical errors
         Debugging with pydevd
@@ -129,6 +138,9 @@
 
     06.Collections
         Lists
+
+ [class 10 Oct 3rd]()
+
         Tuples & namedtuples
         Sets
         Dictionaries
@@ -136,6 +148,8 @@
             workaround for switch case
         Comprehensions
         Working with Iterables - sum(), max(), min()
+
+ [class 11 Oct 4th]()
 
     07.Functions
         Functions with & without arguments, keyword arguments
@@ -147,6 +161,9 @@
             call by reference
             call by value
         Partial Functions
+
+ [class 12 Oct 5th]()
+
         Anonymous(Lambda) Functions
         Higher order functions: map(), filter(), functool.reduce()
         Recursions and recursions limit
@@ -163,6 +180,8 @@
         functools - wrap, lru_cache
         class decorator
 
+ [class 13 Oct 7th]()
+
     09.Iterables, Iterators, Generators and co-routines
         Iterables
             different ways of extracting values from iterables
@@ -178,18 +197,25 @@
             Generator vs Coroutine
             coroutine pipelining
 
+ [class 14 Oct 8th]()
+
     10.Modules
         Basic Modules
             - math, sys, argparse, os, shutil, pathlib, subprocess, getpass
         time related
             - time, datetime, pytz, timeit, calendar
+
+ [class 15 Oct 9th]()
+
         concurrency
-            - Multiprocessing, Multithreading
+            - Multiprocessing, Multithreading, concurrent.futures
         others
             - random, collections, atexit, contextlib, base64, turtle, tqdm
 
         create user-defined module
         creating user-defined package
+
+ [class 16 Oct 10th]()
 
     11.File Operations
         flat files
@@ -199,6 +225,9 @@
             xml
             csv
             dat
+
+ [class 17 Oct 11th]()
+
             xls/xlsx
             json
             yaml
@@ -211,6 +240,8 @@
         config files : .ini, .cfg
         pyw files
 
+ [class 18 Oct 12th]()
+
     12.Logging
         Simple logging
         configuring log file
@@ -220,6 +251,8 @@
         color logging
         Rotating logger
 
+ [class 19 Oct 14th]()
+
     13. OOP
         Importance of OOP
         Instantiation and managing attributes
@@ -228,6 +261,9 @@
         Encapsulation
         MRO, Single and multiple inheritance, composition
         Method Overwriting, Operator Overloading
+
+ [class 29 Oct 15th]()
+
         instance, class and static methods
         property decorator
         Dunder(magic) methods
@@ -236,10 +272,14 @@
         Dataclasses
         Abstract Classes
 
+ [class 30 Oct 16th]()
+
     14. Code Quality
         typing
         Doctest
         unittest
+
+ [class 31 Oct 17th]()
 
     15. Regular Expressions
         re module
@@ -255,18 +295,27 @@
         Pearl-style regexes
         Realworld Problem (log analyses, email Validation, etc)
 
+ [class 32 Oct 18th]()
+
     16. Databases
         db files - sqlite3
         Relational DB - MySQL
         Non-Relational DB - mongoDB
+
+ [class 33 Oct 19th]()
 
     17. Web Services
         consuming REST API
         scraping web pages
         urllib, requests
 
+ [class 34 Oct 20th]()
+
     18. Data Science
         statistics
         Numpy
         Pandas
         Matplotlib
+
+ [class 35 Oct 21st]()
+        Apache Kafka
