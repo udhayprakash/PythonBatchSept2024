@@ -82,9 +82,7 @@
             Operator precedence in Arithmetic operations
 
 
-## Course Planned 
-
-[class 06 sept 26th]()
+[class 06 sept 26th](https://us06web.zoom.us/rec/share/lZaAh1u0S4pBY2jqn57es8hI6Yyzl1vmkM4ihaZyyddhF8TCF9jEzGU-6L4I4_1v.J2Eh66PhkyG7EETi)
 
     02.Basics
         String operations
@@ -97,6 +95,9 @@
           
             Slicing Strings
             string attributes
+
+[class 08 Oct 1st]()
+
             String formatting: old & new styles, f-strings
             bytearray() and byte() strings
             unicode strings
@@ -111,7 +112,8 @@
         Identity Operations
         range() function
 
-[class 08 Oct 1st]()
+## Course Planned 
+
 
         Conditional Operations
         Structural Pattern Matching
@@ -318,4 +320,5 @@
         Matplotlib
 
  [class 35 Oct 21st]()
+ 
         Apache Kafka
