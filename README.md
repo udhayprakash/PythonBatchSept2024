@@ -91,18 +91,20 @@
             Indexing 
             
             
-[class 07 sept 30th]()
+[class 07 sept 30th](https://us06web.zoom.us/rec/share/yp8Fcy7TuPTN33VWZzJbOFVNP3ix_emWrKJT61ZSMUN1Jgta4Tbp-RJAD2k_PCpW.kk1_a1xp92jQZ8Ur)
           
             Slicing Strings
             string attributes
 
-[class 08 Oct 1st]()
+[class 08 Oct 1st](https://us06web.zoom.us/rec/share/YZP74G92UyxRzp52TpHhJ9FhVIrd9YjmzbrXOzmBAC5HgfWUO-TbljRgYSyJrjMK.YqkS5MxjIFmA6io9)
 
             String formatting: old & new styles, f-strings
             bytearray() and byte() strings
             unicode strings
         Usage of help
         Usage of pydoc
+
+ [class 09 Oct 2nd]()
 
     03.Language Components
         Relational Operations
@@ -111,14 +113,12 @@
         Bitwise Operations
         Identity Operations
         range() function
-
-## Course Planned 
-
-
         Conditional Operations
         Structural Pattern Matching
         Loops: for & while, break, continue, pass, sys.exit
         Walrus Operator
+
+## Course Planned 
 
     04.Exception Handling
         Exceptions Hierarchy
@@ -129,7 +129,6 @@
         traceback
         warnings
 
- [class 09 Oct 2nd]()
 
     05.Debugging
         Importance of logical errors
