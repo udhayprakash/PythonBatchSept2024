@@ -113,6 +113,9 @@
         Bitwise Operations
         Identity Operations
         range() function
+
+ [class 10 Oct 3rd]()
+
         Conditional Operations
         Structural Pattern Matching
         Loops: for & while, break, continue, pass, sys.exit
@@ -140,7 +143,6 @@
     06.Collections
         Lists
 
- [class 10 Oct 3rd]()
 
         Tuples & namedtuples
         Sets
