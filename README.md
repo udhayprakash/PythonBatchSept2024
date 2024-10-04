@@ -118,14 +118,23 @@
 
         Conditional Operations
         Structural Pattern Matching
-        Loops: for & while, break, continue, pass, sys.exit
+        Loops: for & while,
+
+
+[class 11 Oct 4th]()
+        Solving Game problems
+        Loops: break, continue, pass, sys.exit
         Walrus Operator
 
-## Course Planned 
 
     04.Exception Handling
         Exceptions Hierarchy
         Different types of errors, error vs exception and exception groups
+
+## Course Planned 
+
+ [class 12 Oct 5th]()
+
         Handling single and multiple exceptions
         raising exceptions
         asserts
@@ -152,7 +161,6 @@
         Comprehensions
         Working with Iterables - sum(), max(), min()
 
- [class 11 Oct 4th]()
 
     07.Functions
         Functions with & without arguments, keyword arguments
@@ -165,7 +173,6 @@
             call by value
         Partial Functions
 
- [class 12 Oct 5th]()
 
         Anonymous(Lambda) Functions
         Higher order functions: map(), filter(), functool.reduce()
