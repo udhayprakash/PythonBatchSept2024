@@ -131,7 +131,6 @@
         Exceptions Hierarchy
         Different types of errors, error vs exception and exception groups
 
-## Course Planned 
 
  [class 12 Oct 5th]()
 
@@ -141,6 +140,9 @@
         traceback
         warnings
 
+## Course Planned 
+
+ [class 14 Oct 8th]()
 
     05.Debugging
         Importance of logical errors
@@ -190,7 +192,6 @@
         functools - wrap, lru_cache
         class decorator
 
- [class 13 Oct 7th]()
 
     09.Iterables, Iterators, Generators and co-routines
         Iterables
@@ -207,7 +208,6 @@
             Generator vs Coroutine
             coroutine pipelining
 
- [class 14 Oct 8th]()
 
     10.Modules
         Basic Modules
