@@ -137,6 +137,8 @@
         Handling single and multiple exceptions
         raising exceptions
         asserts
+        Exception Groups
+        Exception hooks
         traceback
         warnings
 
