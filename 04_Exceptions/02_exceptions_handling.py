@@ -60,3 +60,51 @@ mydict = {"a": "apple"}
 # num3 = int(input('Enter number:'))  # 12.3
 # ValueError: invalid literal for int() with base 10: '12.3'
 
+
+# Exception Handling -------------------------------------------
+# Method 1
+
+try:
+    1/ 0  # everytime yhis code resuolt in exception
+except:
+    pass
+
+
+# try:
+#     num3 = int(input('Enter number:'))  # may be , or may not
+#     print(f'{num3 =}')
+# except:
+#     pass
+
+# Method 2
+try:
+    num3 = int(input('Enter number:'))  # may be , or may not
+    print(f'{num3 =}')
+except Exception as ex:
+    print("ex      :", ex)
+    print("str(ex) :", str(ex))
+
+    print("repr(ex):", repr(ex))
+
+    print(f'{ex    = }')
+
+    # print(dir(ex))
+    print("ex.args", ex.args)
+    
+    ex.add_note('please not give floating point values')
+    # TODO - usefulonly when working with raise to raise exception
+
+
+
+# CASE - 1
+# 12.23
+# ex      : invalid literal for int() with base 10: '12.23'
+# str(ex) : invalid literal for int() with base 10: '12.23'
+# repr(ex): ValueError("invalid literal for int() with base 10: '12.23'")
+# ex    = ValueError("invalid literal for int() with base 10: '12.23'")
+
+
+try:
+    10 / 0 
+except Exception as ex:
+    print("ex      :", ex)
