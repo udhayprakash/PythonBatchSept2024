@@ -143,7 +143,7 @@
         warnings
 
 
- [class 14 Oct 8th]()
+ [class 14 Oct 7th](https://us06web.zoom.us/rec/share/qbuNsM9OGYOFEQy1Ee-da3v4hEUoYpbnTW2rvEhbnNhfD60uCEO5CrCeof9tlkY.Yhj8mGzfsorqghzZ)
 
     05.Debugging
         Importance of logical errors
@@ -157,7 +157,7 @@
 
 ## Course Planned 
 
-[class 15 Oct 9th]()
+[class 15 Oct 8th]()
 
         Tuples & namedtuples
         Sets
