@@ -104,7 +104,7 @@
         Usage of help
         Usage of pydoc
 
- [class 09 Oct 2nd]()
+ [class 09 Oct 2nd](https://us06web.zoom.us/rec/share/FRN3rFVoapaM45estF6LhAdk4yJoXU5SPTVcfC5Wjwsczvj81-N-PZJluB9oQQWo.VrJCbSS0g7dANve8)
 
     03.Language Components
         Relational Operations
@@ -114,14 +114,14 @@
         Identity Operations
         range() function
 
- [class 10 Oct 3rd]()
+ [class 10 Oct 3rd](https://us06web.zoom.us/rec/share/5HGjXWDKqaeyNBbFsGk_n7IKAO8P2f8_eAZWDj9xH2a3asWM09ws-Xtq2kpYaf4.oJJV_t2V6a8z2gH2)
 
         Conditional Operations
         Structural Pattern Matching
         Loops: for & while,
 
 
-[class 11 Oct 4th]()
+[class 11 Oct 4th](https://us06web.zoom.us/rec/share/jPrCLYs0_CrBMpAhB_PQ2-MmgoCGBaUKS1QNBSOqsidswMOTv0VCpQHbLpiYoqaX.ybk70XpJlB13PG3i)
         Solving Game problems
         Loops: break, continue, pass, sys.exit
         Walrus Operator
@@ -132,7 +132,7 @@
         Different types of errors, error vs exception and exception groups
 
 
- [class 12 Oct 5th]()
+ [class 12 Oct 5th](https://us06web.zoom.us/rec/share/ymtu8O9Zxz_CYTQMNe0fqYUF7eLdJEwpZWPXbRBl4ZJO2J1mKTG0qDd5Zr0SlVSU.XupUX5zuOZIljies)
 
         Handling single and multiple exceptions
         raising exceptions
@@ -142,7 +142,6 @@
         traceback
         warnings
 
-## Course Planned 
 
  [class 14 Oct 8th]()
 
@@ -156,6 +155,9 @@
     06.Collections
         Lists
 
+## Course Planned 
+
+[class 15 Oct 9th]()
 
         Tuples & namedtuples
         Sets
@@ -217,7 +219,6 @@
         time related
             - time, datetime, pytz, timeit, calendar
 
- [class 15 Oct 9th]()
 
         concurrency
             - Multiprocessing, Multithreading, concurrent.futures
