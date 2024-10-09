@@ -143,7 +143,7 @@
         warnings
 
 
- [class 14 Oct 7th](https://us06web.zoom.us/rec/share/qbuNsM9OGYOFEQy1Ee-da3v4hEUoYpbnTW2rvEhbnNhfD60uCEO5CrCeof9tlkY.Yhj8mGzfsorqghzZ)
+ [class 13 Oct 7th](https://us06web.zoom.us/rec/share/qbuNsM9OGYOFEQy1Ee-da3v4hEUoYpbnTW2rvEhbnNhfD60uCEO5CrCeof9tlkY.Yhj8mGzfsorqghzZ)
 
     05.Debugging
         Importance of logical errors
@@ -155,17 +155,25 @@
     06.Collections
         Lists
 
-## Course Planned 
+[class 14 Oct 8th](https://us06web.zoom.us/rec/share/xTorvf4QZTAANrkAL3eW_wJ1IK_qNT6t9ZwkfqBFA9EKXgpDe8sg2Wenud8L19pL.NXSTNEFvcXjgFyiA)
+        Lists
+        Tuples
 
-[class 15 Oct 8th]()
 
-        Tuples & namedtuples
+[class 15 Oct 9th]()
+
+        namedtuples
         Sets
         Dictionaries
             zip() function
             workaround for switch case
         Comprehensions
-        Working with Iterables - sum(), max(), min()
+ 
+ ## Course Planned 
+
+[class 16 Oct 10th]()
+
+       Working with Iterables - sum(), max(), min()
 
 
     07.Functions
@@ -179,6 +187,7 @@
             call by value
         Partial Functions
 
+ [class 17 Oct 11th]()
 
         Anonymous(Lambda) Functions
         Higher order functions: map(), filter(), functool.reduce()
@@ -196,6 +205,7 @@
         functools - wrap, lru_cache
         class decorator
 
+ [class 18 Oct 12th]()
 
     09.Iterables, Iterators, Generators and co-routines
         Iterables
@@ -212,6 +222,7 @@
             Generator vs Coroutine
             coroutine pipelining
 
+ [class 19 Oct 14th]()
 
     10.Modules
         Basic Modules
@@ -228,7 +239,7 @@
         create user-defined module
         creating user-defined package
 
- [class 16 Oct 10th]()
+ [class 20 Oct 15th]()
 
     11.File Operations
         flat files
@@ -239,7 +250,7 @@
             csv
             dat
 
- [class 17 Oct 11th]()
+ [class 21 Oct 16th]()
 
             xls/xlsx
             json
@@ -253,7 +264,7 @@
         config files : .ini, .cfg
         pyw files
 
- [class 18 Oct 12th]()
+ [class 22 Oct 17th]()
 
     12.Logging
         Simple logging
@@ -264,7 +275,7 @@
         color logging
         Rotating logger
 
- [class 19 Oct 14th]()
+ [class 23 Oct 18th]()
 
     13. OOP
         Importance of OOP
@@ -275,7 +286,7 @@
         MRO, Single and multiple inheritance, composition
         Method Overwriting, Operator Overloading
 
- [class 29 Oct 15th]()
+ [class 24 Oct 19th]()
 
         instance, class and static methods
         property decorator
@@ -285,14 +296,14 @@
         Dataclasses
         Abstract Classes
 
- [class 30 Oct 16th]()
+ [class 25 Oct 21st]()
 
     14. Code Quality
         typing
         Doctest
         unittest
 
- [class 31 Oct 17th]()
+ [class 26 Oct 22nd]()
 
     15. Regular Expressions
         re module
@@ -308,21 +319,21 @@
         Pearl-style regexes
         Realworld Problem (log analyses, email Validation, etc)
 
- [class 32 Oct 18th]()
+ [class 27 Oct 23rd]()
 
     16. Databases
         db files - sqlite3
         Relational DB - MySQL
         Non-Relational DB - mongoDB
 
- [class 33 Oct 19th]()
+ [class 28 Oct 24th]()
 
     17. Web Services
         consuming REST API
         scraping web pages
         urllib, requests
 
- [class 34 Oct 20th]()
+ [class 29 Oct 25th]()
 
     18. Data Science
         statistics
@@ -330,6 +341,6 @@
         Pandas
         Matplotlib
 
- [class 35 Oct 21st]()
+ [class 30 Oct 26th]()
  
         Apache Kafka
