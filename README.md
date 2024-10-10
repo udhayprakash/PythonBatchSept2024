@@ -122,6 +122,7 @@
 
 
 [class 11 Oct 4th](https://us06web.zoom.us/rec/share/jPrCLYs0_CrBMpAhB_PQ2-MmgoCGBaUKS1QNBSOqsidswMOTv0VCpQHbLpiYoqaX.ybk70XpJlB13PG3i)
+
         Solving Game problems
         Loops: break, continue, pass, sys.exit
         Walrus Operator
@@ -160,7 +161,7 @@
         Tuples
 
 
-[class 15 Oct 9th]()
+[class 15 Oct 9th](https://us06web.zoom.us/rec/share/w82oIz-wufm57zPOHEi6OxEoAsTiRk6wZ_xduwlY7XlR7AvXJLvbR3jcUycmVeaq.tH_47fJ8nihkAOaU)
 
         namedtuples
         Sets
@@ -169,9 +170,9 @@
             workaround for switch case
         Comprehensions
  
- ## Course Planned 
 
 [class 16 Oct 10th]()
+        Comprehensions
 
        Working with Iterables - sum(), max(), min()
 
@@ -180,14 +181,19 @@
         Functions with & without arguments, keyword arguments
         Functions with Different return types and unpacking
         Functions with with Default arguments
-        variadic functions : variable arguments and variable keyword arguments
+        Memory Leakage problem with default mutable args
+
+ ## Course Planned 
+
+ [class 17 Oct 11th]()
+ 
+         variadic functions : variable arguments and variable keyword arguments
         Functions with keyword only arguments
         Scoping: Global vs Local
             call by reference
             call by value
         Partial Functions
 
- [class 17 Oct 11th]()
 
         Anonymous(Lambda) Functions
         Higher order functions: map(), filter(), functool.reduce()
