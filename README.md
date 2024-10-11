@@ -171,7 +171,7 @@
         Comprehensions
  
 
-[class 16 Oct 10th]()
+[class 16 Oct 10th](https://us06web.zoom.us/rec/share/bkbA-SE2Yv9zX2yPlO3Z61_TjBZwXn2lGr-BNEP4Up1zrKjyXICnEKMsXh1A1Do-.Xvfs053YwQnv6e5I)
         Comprehensions
 
        Working with Iterables - sum(), max(), min()
@@ -183,21 +183,23 @@
         Functions with with Default arguments
         Memory Leakage problem with default mutable args
 
- ## Course Planned 
 
  [class 17 Oct 11th]()
  
-         variadic functions : variable arguments and variable keyword arguments
+        variadic functions : variable arguments and variable keyword arguments
         Functions with keyword only arguments
         Scoping: Global vs Local
             call by reference
             call by value
         Partial Functions
-
-
         Anonymous(Lambda) Functions
         Higher order functions: map(), filter(), functool.reduce()
         Recursions and recursions limit
+
+ ## Course Planned 
+
+ [class 18 Oct 12th]()
+
         inner functions
         closures
 
@@ -211,7 +213,6 @@
         functools - wrap, lru_cache
         class decorator
 
- [class 18 Oct 12th]()
 
     09.Iterables, Iterators, Generators and co-routines
         Iterables
