@@ -198,7 +198,7 @@
 
  ## Course Planned 
 
- [class 18 Oct 12th]()
+ [class 18 Oct 14th]()
 
         inner functions
         closures
