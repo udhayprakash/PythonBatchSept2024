@@ -157,6 +157,7 @@
         Lists
 
 [class 14 Oct 8th](https://us06web.zoom.us/rec/share/xTorvf4QZTAANrkAL3eW_wJ1IK_qNT6t9ZwkfqBFA9EKXgpDe8sg2Wenud8L19pL.NXSTNEFvcXjgFyiA)
+
         Lists
         Tuples
 
@@ -172,6 +173,7 @@
  
 
 [class 16 Oct 10th](https://us06web.zoom.us/rec/share/bkbA-SE2Yv9zX2yPlO3Z61_TjBZwXn2lGr-BNEP4Up1zrKjyXICnEKMsXh1A1Do-.Xvfs053YwQnv6e5I)
+
         Comprehensions
 
        Working with Iterables - sum(), max(), min()
@@ -196,7 +198,6 @@
         Higher order functions: map(), filter(), functool.reduce()
         Recursions and recursions limit
 
- ## Course Planned 
 
  [class 18 Oct 14th]()
 
@@ -212,6 +213,10 @@
         decorators with arguments
         functools - wrap, lru_cache
         class decorator
+
+ ## Course Planned 
+
+ [class 19 Oct 15th]()
 
 
     09.Iterables, Iterators, Generators and co-routines
@@ -229,7 +234,6 @@
             Generator vs Coroutine
             coroutine pipelining
 
- [class 19 Oct 14th]()
 
     10.Modules
         Basic Modules
