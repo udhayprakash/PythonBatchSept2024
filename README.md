@@ -199,7 +199,9 @@
         Recursions and recursions limit
 
 
- [class 18 Oct 14th]()
+ [class 18 Oct 14th](https://us06web.zoom.us/rec/share/-fVQz-BgFC0LeT9rBY_1nSXxb9hZWn6AEYTiEkMcLA1nk6Oe5_tzGGYOtlbzaod_.w3_fOt_wMepVcf00)
+        
+        [Part 2](https://us06web.zoom.us/rec/share/deTXbiWZJiMw4fdFxnOnagUBTIiBc-Ir9UPvMYmPzzHaMrxCbCI_KPgMkIi9PW4X.7RFXA6CRYqWMByx8)
 
         inner functions
         closures
@@ -213,6 +215,7 @@
         decorators with arguments
         functools - wrap, lru_cache
         class decorator
+
 
  ## Course Planned 
 
