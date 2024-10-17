@@ -1,0 +1,28 @@
+Non-Iterables -- int, float, None, bool
+Iterables     -- str, list, tuple, set, dict,     --- Iterator
+                range
+user=defined  functions -----> Generators
+
+    
+
+
+
+
+
+
+int - 2bytes
+[1, 0] - 4bytes
+
+
+Memory 
+    peramnanent 
+        -- HDD
+        -- ROM --- flash - os bios
+
+    temporty 
+        - RAM  - 8GB
+            - Heap 
+                - Private Heap 
+                    python private Heap 
+
+            - stack 

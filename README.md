@@ -216,11 +216,7 @@
         functools - wrap, lru_cache
         class decorator
 
-
- ## Course Planned 
-
  [class 19 Oct 15th]()
-
 
     09.Iterables, Iterators, Generators and co-routines
         Iterables
@@ -228,11 +224,19 @@
         Iterators
             iter() protocol
             itertools module
-        Generators
+ 
+[class 20 Oct 17th]()
+
+       Generators
             yield vs return
             function vs Generator
             Generator pipelining
             Generator Expression
+
+ ## Course Planned 
+
+[class 21 Oct 18th]()
+
         Coroutine
             Generator vs Coroutine
             coroutine pipelining
@@ -253,7 +257,6 @@
         create user-defined module
         creating user-defined package
 
- [class 20 Oct 15th]()
 
     11.File Operations
         flat files
@@ -263,9 +266,6 @@
             xml
             csv
             dat
-
- [class 21 Oct 16th]()
-
             xls/xlsx
             json
             yaml
