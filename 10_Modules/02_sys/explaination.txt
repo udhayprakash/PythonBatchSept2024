@@ -1,0 +1,26 @@
+Project server
+    food delivery app  -- python 2.7
+    food processing app  -- python 3.9
+    food merchanizse applictaion --- python 3.11, pandas 2.1
+    food quality check application --python 3.11, pandas 2.12
+
+
+virtual environments
+    c:\users.... base verison  \usr
+    d:\doler1/fodle2/python
+    d:\doler1/anothr/python
+    e:\folder2/python
+
+    modules 3rd party 
+        virtualenv
+        venv 
+        poetry
+
+
+         virtualenv .venv
+         source .venv/bin/activate
+
+
+
+
+python -i scripy.py
