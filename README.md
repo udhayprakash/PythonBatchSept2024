@@ -225,7 +225,7 @@
             iter() protocol
             itertools module
  
-[class 20 Oct 17th]()
+[class 20 Oct 17th](https://us06web.zoom.us/rec/share/8yhyPK-RpThPAvEzQ50Hw_FxcoG_vm0apt9fzDVDagD-PeYJ9rBWc_4NC0ygLgr9.x0XzbYxidhtGN-Lp)
 
        Generators
             yield vs return
@@ -233,9 +233,8 @@
             Generator pipelining
             Generator Expression
 
- ## Course Planned 
 
-[class 21 Oct 18th]()
+[class 21 Oct 18th](https://us06web.zoom.us/rec/share/fiORlhwxCkWwraJooniRgSUgMS0NktqrDYa_g1Xfy2BiFNNy_n5cuRoqL9d3EWVa.TSoYCyI90G7xKbgX)
 
         Coroutine
             Generator vs Coroutine
@@ -244,7 +243,17 @@
 
     10.Modules
         Basic Modules
-            - math, sys, argparse, os, shutil, pathlib, subprocess, getpass
+            - math, sys, argparse,
+            
+[class 22 Oct 21st]()
+            
+         os, subprocess, 
+
+ ## Course Planned 
+  
+[class 23 Oct 22nd]()
+
+        shutil, pathlib,getpass
         time related
             - time, datetime, pytz, timeit, calendar
 
@@ -278,7 +287,6 @@
         config files : .ini, .cfg
         pyw files
 
- [class 22 Oct 17th]()
 
     12.Logging
         Simple logging
