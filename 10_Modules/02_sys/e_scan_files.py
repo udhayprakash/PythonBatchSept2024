@@ -4,7 +4,7 @@ Purpose: scan files
 """
 import os
 
-path = r"C:\Users\udhayPrakash\AppData\Local\Programs\Python\Python37"
+# path = r"C:\Users\udhayPrakash\AppData\Local\Programs\Python\Python37"
 
 
 # print(os.getcwd())
