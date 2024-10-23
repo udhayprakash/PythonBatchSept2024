@@ -216,7 +216,7 @@
         functools - wrap, lru_cache
         class decorator
 
- [class 19 Oct 15th]()
+ [class 19 Oct 15th](https://us06web.zoom.us/rec/share/fXxzy4BDeJMHf7hp8cW3WbzjoDIGpsd5U3tvHjmSa9aZFb318DN5t9F8dHiY2WwG.HMM8KZ448bMcZW2_)
 
     09.Iterables, Iterators, Generators and co-routines
         Iterables
@@ -245,33 +245,32 @@
         Basic Modules
             - math, sys, argparse,
             
-[class 22 Oct 21st]()
+[class 22 Oct 21st](https://us06web.zoom.us/rec/share/vlnM0YW31fiMjAnpVkUMfjOiISOY0hq2jt5gzl8YPXoxQtjrqP_bJWhftQ16KE4O.DwuSVRBFWpl19MAN)
             
          os, subprocess, 
 
   
-[class 23 Oct 22nd]()
+[class 23 Oct 22nd](https://us06web.zoom.us/rec/share/jBTToPGi9jdrbirJE4p4p3PPqTqQ4lD8PbjS6hjSvQQFeVJylKNfD-Q_ZxoU03CY.gaON3q_1_o6CFDOX)
 
         shutil, pathlib,getpass
         time related
             - time, timeit, cprofiler
             
- ## Course Planned 
 
-
-[class 23 Oct 22nd]()
+[class 24 Oct 23rd]()
           
             datetime, pytz, calendar
+            pendulum
 
-
-        concurrency
-            - Multiprocessing, Multithreading, concurrent.futures
         others
-            - random, collections, atexit, contextlib, base64, turtle, tqdm
+            - random, collections, atexit, base64
 
         create user-defined module
         creating user-defined package
 
+ ## Course Planned 
+
+[class 25 Oct 24th]()
 
     11.File Operations
         flat files
@@ -303,7 +302,6 @@
         color logging
         Rotating logger
 
- [class 23 Oct 18th]()
 
     13. OOP
         Importance of OOP
@@ -314,7 +312,6 @@
         MRO, Single and multiple inheritance, composition
         Method Overwriting, Operator Overloading
 
- [class 24 Oct 19th]()
 
         instance, class and static methods
         property decorator
@@ -324,7 +321,6 @@
         Dataclasses
         Abstract Classes
 
- [class 25 Oct 21st]()
 
     14. Code Quality
         typing
