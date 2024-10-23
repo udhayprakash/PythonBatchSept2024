@@ -249,13 +249,19 @@
             
          os, subprocess, 
 
- ## Course Planned 
   
 [class 23 Oct 22nd]()
 
         shutil, pathlib,getpass
         time related
-            - time, datetime, pytz, timeit, calendar
+            - time, timeit, cprofiler
+            
+ ## Course Planned 
+
+
+[class 23 Oct 22nd]()
+          
+            datetime, pytz, calendar
 
 
         concurrency
