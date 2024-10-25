@@ -257,7 +257,7 @@
             - time, timeit, cprofiler
             
 
-[class 24 Oct 23rd]()
+[class 24 Oct 23rd](https://us06web.zoom.us/rec/share/nbw3bNDx-EQo6OdbAxw5n_9qe87NYxUIJRsBbYt3QystmEdPepEJfS-mRe6rS_3_.ISGb-LbC-FVYMliV)
           
             datetime, pytz, calendar
             pendulum
@@ -270,7 +270,7 @@
 
  ## Course Planned 
 
-[class 25 Oct 24th]()
+[class 25 Oct 24th](https://us06web.zoom.us/rec/share/eoYvcfkGACr_Ijp0oEkYW7TAjsARj5SfBdlHesA7ttzxC_W06Gs7CXiiFS-3LbmL.YsPLVL1WKPiEEjsG)
 
     11.Logging
         Simple logging
@@ -281,6 +281,7 @@
         color logging
         Rotating logger
 
+[class 26 Oct 22nd]()
 
     11.File Operations
         flat files
@@ -327,7 +328,6 @@
         Doctest
         unittest
 
- [class 26 Oct 22nd]()
 
     15. Regular Expressions
         re module

@@ -1,0 +1,10 @@
+files 
+    - unstructured -- text, pdf, 
+    - semi-structured -- csv  (not strict)
+    - structured -- parquet, avro
+
+
+files 
+    -- text files  -- txt
+    -- encoded files -- pdf, png, jpeg, .wav, .mpeg
+    
