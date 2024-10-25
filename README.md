@@ -272,6 +272,16 @@
 
 [class 25 Oct 24th]()
 
+    11.Logging
+        Simple logging
+        configuring log file
+        formatting logs and adding timestamp
+        working with file handler and stream hanlder
+        configuring multiple handlers
+        color logging
+        Rotating logger
+
+
     11.File Operations
         flat files
         Non-flat files
@@ -291,16 +301,6 @@
         pdf files
         config files : .ini, .cfg
         pyw files
-
-
-    12.Logging
-        Simple logging
-        configuring log file
-        formatting logs and adding timestamp
-        working with file handler and stream hanlder
-        configuring multiple handlers
-        color logging
-        Rotating logger
 
 
     13. OOP
