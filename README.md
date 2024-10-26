@@ -282,9 +282,16 @@
         Rotating logger
 
 [class 26 Oct 22nd]()
+        structlog
+        Loguru
+        sentry integration
 
     11.File Operations
         flat files
+
+ [class 27 Oct 26th]()
+
+        content manager with file operations
         Non-flat files
             pickle
             shelve
@@ -343,7 +350,6 @@
         Pearl-style regexes
         Realworld Problem (log analyses, email Validation, etc)
 
- [class 27 Oct 23rd]()
 
     16. Databases
         db files - sqlite3
