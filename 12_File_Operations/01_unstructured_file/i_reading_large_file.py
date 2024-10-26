@@ -8,7 +8,7 @@ from typing import Iterator
 def read_from_file(file_name: str) -> Iterator:
     """Method 1 - reading one line per iteration"""
     with open(file_name, "r") as fp:
-        yield fp.readline()
+        yield fp.readline(5_000_000)
 
 
 def read_from_file2(file_name: str, block_size: int=1024 * 8) ->Iterator:
