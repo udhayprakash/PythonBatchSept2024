@@ -293,22 +293,27 @@
 
         content manager with file operations
         Non-flat files
-            pickle
-            shelve
-            xml
-            csv
-            dat
+            Serialization
+                pickle
+                shelve
+                messagepack
+
+            Semi-Structured Data   
+                xml
+                html
+                csv/ dat
+
+ [class 28 Oct 28th]()
+
             xls/xlsx
             json
             yaml
             parquet
             avro
-        Image files
-            displaying, creating and editing images
+
         zipping files: .zip, .tar
-        pdf files
-        config files : .ini, .cfg
-        pyw files
+
+ [class 29 Oct 29th]()
 
 
     13. OOP
@@ -356,7 +361,6 @@
         Relational DB - MySQL
         Non-Relational DB - mongoDB
 
- [class 28 Oct 24th]()
 
     17. Web Services
         consuming REST API
