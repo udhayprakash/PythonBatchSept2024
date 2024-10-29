@@ -281,12 +281,12 @@
         color logging
         Rotating logger
 
-[class 26 Oct 22nd]()
+[class 26 Oct 22nd](https://us06web.zoom.us/rec/share/7vZJ9kJAw2ua3E-g8czB50VAi8IO8uQN1Ka9x9DQWcIAZNR715i7NE6KEWj_AvwS.b2-Ij7JCGEPJnvUH)
         structlog
         Loguru
         sentry integration
 
-    11.File Operations
+    12.File Operations
         flat files
 
  [class 27 Oct 26th]()
@@ -303,7 +303,7 @@
                 html
                 csv/ dat
 
- [class 28 Oct 28th]()
+ [class 28 Oct 28th](https://us06web.zoom.us/rec/share/p3KOgy8qzOhFXaWOt0hZOjdtmWLLiDHtW0XXIp-HAknENjdWcLEnzfHORIWQreb1.HYsHJzGDw2u1lggD)
 
             xls/xlsx
             json
@@ -324,10 +324,11 @@
         Encapsulation
         MRO, Single and multiple inheritance, composition
         Method Overwriting, Operator Overloading
-
-
         instance, class and static methods
         property decorator
+
+ [class 30 Oct 30th]()
+
         Dunder(magic) methods
         reprlib module
         creating context manager class
@@ -367,7 +368,6 @@
         scraping web pages
         urllib, requests
 
- [class 29 Oct 25th]()
 
     18. Data Science
         statistics
@@ -375,6 +375,5 @@
         Pandas
         Matplotlib
 
- [class 30 Oct 26th]()
  
         Apache Kafka
