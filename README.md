@@ -333,16 +333,14 @@
         reprlib module
         creating context manager class
         Dataclasses
-        Abstract Classes
+        Abstract Classes & methods
+        Enum
+        Datastructures - stack, Queue, LinkedList
+        Design patterns - Singleton
 
+ [class 30 Oct 30th]()
 
-    14. Code Quality
-        typing
-        Doctest
-        unittest
-
-
-    15. Regular Expressions
+    14. Regular Expressions
         re module
         compiling regex objects
         match & search
@@ -355,6 +353,11 @@
         groups and groupdicts
         Pearl-style regexes
         Realworld Problem (log analyses, email Validation, etc)
+
+    15. Code Quality
+        typing
+        Doctest
+        unittest
 
 
     16. Databases
