@@ -268,7 +268,6 @@
         create user-defined module
         creating user-defined package
 
- ## Course Planned 
 
 [class 25 Oct 24th](https://us06web.zoom.us/rec/share/eoYvcfkGACr_Ijp0oEkYW7TAjsARj5SfBdlHesA7ttzxC_W06Gs7CXiiFS-3LbmL.YsPLVL1WKPiEEjsG)
 
@@ -338,7 +337,7 @@
         Datastructures - stack, Queue, LinkedList
         Design patterns - Singleton
 
- [class 30 Oct 30th]()
+ [class 31 Nov 1st]()
 
     14. Regular Expressions
         re module
@@ -353,12 +352,19 @@
         groups and groupdicts
         Pearl-style regexes
         Realworld Problem (log analyses, email Validation, etc)
+        Look Assertions
+
+ ## Course Planned 
+
+
+ [class 32 Nov 2nd]()
 
     15. Code Quality
         typing
         Doctest
         unittest
 
+ [class 32 Nov 2nd]()
 
     16. Databases
         db files - sqlite3
@@ -371,12 +377,10 @@
         scraping web pages
         urllib, requests
 
+ [class 33 Nov 3rd]()
 
     18. Data Science
         statistics
         Numpy
         Pandas
         Matplotlib
-
- 
-        Apache Kafka
