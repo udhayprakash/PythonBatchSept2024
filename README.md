@@ -288,7 +288,7 @@
     12.File Operations
         flat files
 
- [class 27 Oct 26th]()
+[class 27 Oct 26th]()
 
         content manager with file operations
         Non-flat files
@@ -302,7 +302,7 @@
                 html
                 csv/ dat
 
- [class 28 Oct 28th](https://us06web.zoom.us/rec/share/p3KOgy8qzOhFXaWOt0hZOjdtmWLLiDHtW0XXIp-HAknENjdWcLEnzfHORIWQreb1.HYsHJzGDw2u1lggD)
+[class 28 Oct 28th](https://us06web.zoom.us/rec/share/p3KOgy8qzOhFXaWOt0hZOjdtmWLLiDHtW0XXIp-HAknENjdWcLEnzfHORIWQreb1.HYsHJzGDw2u1lggD)
 
             xls/xlsx
             json
@@ -312,7 +312,7 @@
 
         zipping files: .zip, .tar
 
- [class 29 Oct 29th]()
+[class 29 Oct 29th]()
 
 
     13. OOP
@@ -326,7 +326,7 @@
         instance, class and static methods
         property decorator
 
- [class 30 Oct 30th]()
+[class 30 Oct 30th]()
 
         Dunder(magic) methods
         reprlib module
@@ -337,7 +337,7 @@
         Datastructures - stack, Queue, LinkedList
         Design patterns - Singleton
 
- [class 31 Nov 1st]()
+[class 31 Nov 1st]()
 
     14. Regular Expressions
         re module
@@ -354,30 +354,47 @@
         Realworld Problem (log analyses, email Validation, etc)
         Look Assertions
 
- ## Course Planned 
 
-
- [class 32 Nov 2nd]()
+[class 32 Nov 2nd]()
 
     15. Code Quality
-        typing
+        static code analyzers
+           pylint
+           black
+           mypy
+           typing
+        Code Analyzers
+           cProfiler
+           memory_profiler
+           objgraph
+           disassembler
+           inspect
+           lib2to3
+           weakref
         Doctest
-        unittest
 
- [class 32 Nov 2nd]()
+ ## Course Planned 
+
+[class 33 Nov 2nd]()
+
+        unittest
+        mocking
+        pytest
+        
 
     16. Databases
         db files - sqlite3
         Relational DB - MySQL
         Non-Relational DB - mongoDB
 
+ [class 34 Nov 3rd]()
 
     17. Web Services
         consuming REST API
         scraping web pages
         urllib, requests
 
- [class 33 Nov 3rd]()
+ [class 35 Nov 4th]()
 
     18. Data Science
         statistics
