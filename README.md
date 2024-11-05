@@ -373,14 +373,13 @@
            weakref
         Doctest
 
- ## Course Planned 
+[class 33 Nov 5th]()
 
-[class 33 Nov 2nd]()
-
+        assertions
         unittest
-        mocking
-        pytest
+        coverage
         
+ ## Course Planned 
 
     16. Databases
         db files - sqlite3
