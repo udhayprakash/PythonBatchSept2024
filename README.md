@@ -378,22 +378,37 @@
         assertions
         unittest
         coverage
-        
+
+[class 34 Nov 6th]()
+
+        pytest
+        fixtures
+
+    17. Web Services
+        FTP 
+            simplehttpserver
+        RPC
+            xmlrpc
+            jsonrpc
+
+        SOAP API
+
  ## Course Planned 
+
+ [class 35 Nov 7th]()
+
+        consuming REST API
+        scraping web pages
+        urllib, requests
+
 
     16. Databases
         db files - sqlite3
         Relational DB - MySQL
         Non-Relational DB - mongoDB
 
- [class 34 Nov 3rd]()
+ [class 36 Nov 8th]()
 
-    17. Web Services
-        consuming REST API
-        scraping web pages
-        urllib, requests
-
- [class 35 Nov 4th]()
 
     18. Data Science
         statistics
