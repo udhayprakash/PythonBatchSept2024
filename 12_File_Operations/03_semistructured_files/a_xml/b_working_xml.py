@@ -1,8 +1,9 @@
 import xml.etree.ElementTree as ET
+import defusedxml.ElementTree
 
 # Load XML file
 def load_xml(file_path):
-    tree = ET.parse(file_path)
+    tree = defusedxml.ElementTree.parse(file_path)
     root = tree.getroot()
     return root
 
